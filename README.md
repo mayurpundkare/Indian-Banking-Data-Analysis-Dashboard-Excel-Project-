@@ -156,6 +156,10 @@ These insights help identify trends, customer behavior, and operational performa
 
 - 5. Performance Reporting
 
+**📸 Dashboard Preview**
+<img width="927" height="655" alt="Screenshot 2026-06-13 113010" src="https://github.com/user-attachments/assets/5c5c0eb9-b2e7-48d2-89bf-e77a514007c7" />
+
+
 # **📈 Dashboard Components**
 
 ✅ Revenue Analysis
