@@ -177,6 +177,7 @@ These insights help identify trends, customer behavior, and operational performa
 - Payment Mode Analysis
 
 - Transaction Status Analysis
+
 ✅ Customer Analysis
 
 - Customer-wise Transactions
