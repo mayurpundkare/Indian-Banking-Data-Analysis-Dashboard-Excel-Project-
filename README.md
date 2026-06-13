@@ -68,31 +68,25 @@ The primary objectives of this project are:
 
 The dashboard provides valuable business insights such as:
 
-✅ Total Banking Transactions
+✅ 500 banking transactions were analyzed in the dashboard.
 
-✅ Total Revenue Generated
+✅ ₹93.93 Million+ worth of transactions were processed.
 
-✅ Monthly Revenue Trends
+✅ 500 unique customers are included in the analysis.
 
-✅ Region-wise Transaction Distribution
+✅ 25 bank branches across 5 regions were analyzed.
 
-✅ Branch-wise Performance
+✅ Only 13 transactions (2.6%) were marked as fraudulent.
 
-✅ Customer Activity Analysis
+✅ 434 transactions (86.8%) were completed successfully.
 
-✅ Payment Mode Usage
+✅ 26 transactions (5.2%) failed during processing.
 
-✅ Transaction Type Breakdown
+✅ 19 transactions (3.8%) are in pending status.
 
-✅ Fraud vs Non-Fraud Transactions
+✅ 21 transactions (4.2%) were reversed.
 
-✅ Account Type Distribution
-
-✅ Balance Analysis
-
-✅ Transaction Status Overview
-
-These insights help identify trends, customer behavior, and operational performance.
+✅ The dashboard enables analysis of transaction types, payment modes, customer activity, regional performance, and fraud detection through interactive visualizations.
 
 # **🔄 Project Workflow**
 
@@ -257,3 +251,13 @@ These insights help identify trends, customer behavior, and operational performa
 This project demonstrates how Microsoft Excel can be used to build an interactive business intelligence dashboard for banking analytics. 
 By leveraging data cleaning techniques, pivot tables, charts, and visualization tools, the dashboard provides actionable insights into 
 transaction performance, customer behavior, revenue trends, and fraud detection, enabling informed business decision-making.
+
+# 👨‍💻 Author
+
+## Mayur Pundkare
+
+🔗 LinkedIn: https://www.linkedin.com/in/mayur-pundkare/
+
+💻 Github:
+
+🔗 https://github.com/mayurpundkare
