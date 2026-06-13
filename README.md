@@ -113,6 +113,7 @@ These insights help identify trends, customer behavior, and operational performa
 - 4. Verify data consistency
 
 ✅ Step 3: Data Preparation
+
 - 1. Format transaction dates
 
 - 2. Create Month-Year columns
